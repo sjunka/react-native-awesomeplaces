@@ -1,0 +1,4 @@
+#Wed Jul 25 22:15:48 COT 2018
+base.0=/home/junka/Documents/myprojects/demos/react-native-demoapp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
